@@ -1,0 +1,63 @@
+﻿  main.cpp
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\xutility(1622,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\xutility(1621): message : 查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<int(__cdecl *&)(int,int),float&,float&,0>(_Pr,_Ty1,_Ty2) noexcept(<expr>)”的引用
+          with
+          [
+              _Pr=int (__cdecl *&)(int,int),
+              _Ty1=float &,
+              _Ty2=float &
+          ]
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7485): message : 查看对正在编译的函数 模板 实例化“_BidIt *std::_Insertion_sort_unchecked<_RanIt,int(__cdecl *)(int,int)>(const _BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=float *,
+              _RanIt=float *,
+              _Pr=int (__cdecl *)(int,int)
+          ]
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7515): message : 查看对正在编译的函数 模板 实例化“void std::_Sort_unchecked<_RanIt,int(__cdecl *)(int,int)>(_RanIt,_RanIt,int,_Pr)”的引用
+          with
+          [
+              _RanIt=float *,
+              _Pr=int (__cdecl *)(int,int)
+          ]
+C:\Users\Administrator\Desktop\超市商品管理系统\超市商品管理系统\main.cpp(2050): message : 查看对正在编译的函数 模板 实例化“void std::sort<float*,int(__cdecl *)(int,int)>(const _RanIt,const _RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=float *,
+              _Pr=int (__cdecl *)(int,int)
+          ]
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\xutility(1622,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\xutility(1622,62): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\xutility(1622,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7419,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7496): message : 查看对正在编译的函数 模板 实例化“std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,int(__cdecl *)(int,int)>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=float *,
+              _Pr=int (__cdecl *)(int,int)
+          ]
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7419,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7423,92): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7423,82): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7434,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7434,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7447,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7447,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\xutility(1624,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7361): message : 查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<int(__cdecl *&)(int,int),float&,float&,0>(_Pr,_Ty1,_Ty2) noexcept(false)”的引用
+          with
+          [
+              _Pr=int (__cdecl *&)(int,int),
+              _Ty1=float &,
+              _Ty2=float &
+          ]
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\algorithm(7485): message : 查看对正在编译的函数 模板 实例化“_BidIt *std::_Insertion_sort_unchecked<_RanIt,int(__cdecl *)(int,int)>(const _BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=float *,
+              _RanIt=float *,
+              _Pr=int (__cdecl *)(int,int)
+          ]
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\xutility(1624,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\visual studio 2019 IDE\VC\Tools\MSVC\14.28.29910\include\xutility(1626,9): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  超市商品管理系统.vcxproj -> C:\Users\Administrator\Desktop\超市商品管理系统\超市商品管理系统\Debug\超市商品管理系统.exe
